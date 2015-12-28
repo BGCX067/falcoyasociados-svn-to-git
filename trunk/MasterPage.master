@@ -1,0 +1,219 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Falco & Asociados</title>
+<meta name="keywords" content="Specific Template, HTML CSS, free website template" />
+<meta name="description" content="Specific Template is a free website template provided by TemplateMo.com"  />
+<link href="styleInternet.css" rel="stylesheet" type="text/css"  />
+<script language="javascript" type="text/javascript" >
+
+
+
+
+{
+}
+
+
+</script>
+</head>
+<body >
+
+
+
+<div id="templatemo_header_wrapper" style="height: 202px; width: 100%;" >
+	<div id="templatemo_header" onclick="return templatemo_header_onclick()" style="height: 202px; width: 961px; " >
+
+    <a href="#"></a>
+
+    </div> <p class="pureCssMenui">
+        &nbsp;</p>
+    
+</div> <!-- end of header wrapper -->
+    <![if gt IE 6]><![endif]><!--[if lte IE 6]><table><tr><td><![endif]--><![if gt IE
+    6]><![endif]><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--><![if
+    gt IE 6]><![endif]><!--[if lte IE 6]><table><tr><td><![endif]--><!--[if lte IE 6]></td></tr></table></a><![endif]--><div id="templatemo_menu_wrapper" style="height: 11px; width: 100%; background-color: #173651;">
+    <div id="templatemo_menu" style="height: 31px; width: 966px; background-color: #333333;">
+        <ul class="pureCssMenu pureCssMenum" style="width: 958px; height: 37px">
+        	<li class="pureCssMenui" style="width: 69px; height: 7px"><a class="pureCssMenui" href="Inicio.aspx"><strong><span style="font-size: 14px;
+                font-family: Calibri">Inicio</span></strong></a></li><li class="pureCssMenui"><a class="pureCssMenui" href="negocioinmobiliario.aspx"><span style="font-size: 14px; font-family: Calibri">
+                <strong>Negocios Inmobiliarios</strong></span></a>
+	        <ul class="pureCssMenum" style="left: 0px; top: 98%">
+		        <li class="pureCssMenui"><a class="pureCssMenui" href="Venta.aspx"><strong>Ventas</strong></a></li>
+		        <li class="pureCssMenui"><a class="pureCssMenui" ><span><strong>Alquiler</strong></span></a>
+		        <ul class="pureCssMenum">
+			        <li class="pureCssMenui"><a class="pureCssMenui" href="santafe.aspx"><span style="font-size: 13px;
+                        font-family: Calibri"><strong>Santa Fe</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span>
+                            <ul class="pureCssMenum" style="left: 98%; width: 140px; top: 0px">
+                             <li class="pureCssMenui"><a class="pureCssMenui" href="MonoAmbiente.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>Monoambiente</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="1Dormitorio.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>1 Dormitorio</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="2Dormitorios.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>2 Dormitorios</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="Mas2Dormitorios.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>Más de 2 Dormitorios</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            </ul>
+                            </li>
+			        <li class="pureCssMenui"><a class="pureCssMenui" href="rosario.aspx"><span style="font-size: 13px;
+                        font-family: Calibri"><strong>Rosario</strong></span></a>
+                        <ul class="pureCssMenum" style="left: 99%; width: 141px; top: 1px">
+                             <li class="pureCssMenui"><a class="pureCssMenui" href="santafe.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>Monoambiente</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="santafe.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>1 Dormitorio</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="santafe.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>2 Dormitorios</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            <li class="pureCssMenui"><a class="pureCssMenui" href="santafe.aspx"><span style="font-size: 13px;
+                              font-family: Calibri"><strong>Más de 2 Dormitorios</strong></span></a><span style="font-size: 13px;
+                            font-family: Calibri"><strong> </strong></span></li>
+                            </ul>
+                            </li>
+                            
+		        </ul>
+		        </li>
+		        <li class="pureCssMenui"><a class="pureCssMenui" href="ContactoI.aspx"><span style="font-family: Calibri">
+                    <strong>Contacto</strong></span></a></li>
+	        </ul>
+	        </li>
+	        <li class="pureCssMenui"><a class="pureCssMenui" href="estudiojuridico.aspx"><span><span style="font-family: Calibri">
+                <span><span style="font-size: 14px"><strong>Estudio</strong> <strong>Jurídico</strong></span></span></span></span></a>
+	        <ul class="pureCssMenum">
+		        <li class="pureCssMenui"><a class="pureCssMenui" href="areaPractica.aspx"><span style="font-family: Calibri; font-size: 13px;">
+                    <strong>Area Práctica</strong></span></a></li>
+		        <li class="pureCssMenui"><a class="pureCssMenui" href="Contacto.aspx"><strong><span style="font-size: 13px;
+                    font-family: Calibri">Contacto</span></strong></a></li>
+	    </ul>
+	</li>
+        </ul>   
+	</div> <!-- end of menu -->
+
+	<div id="templatemo_content" style="height: 670px"  >
+    	
+        <div class="section_w620 fl margin_right_50" style="width: 658px; height: 776px;">
+        
+            <div class="header_01">
+                <asp:SiteMapPath ID="SiteMapPath1" runat="server" Font-Names="Calibri" Font-Size="0.8em"
+                    ForeColor="#990000" PathSeparator=" : ">
+                    <PathSeparatorStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                    <CurrentNodeStyle BackColor="Transparent" ForeColor="Red" />
+                    <NodeStyle Font-Bold="True" ForeColor="#C00000" />
+                    <RootNodeStyle Font-Bold="True" ForeColor="#5D7B9D" />
+                </asp:SiteMapPath>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <br />
+                    <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:BDFalcoConnectionString %>"
+                        SelectCommand="SELECT * FROM [EstadoInmueble]"></asp:SqlDataSource>
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </asp:ContentPlaceHolder>
+                </div>
+            <a href="" target="_parent"></a> 
+        </div>
+        
+        <div class="section_w250 fr" style="height: 832px; width: 251px;">
+        
+        	<div class="section_w250_title news_title" style="width: 231px">
+                Últimas Noticias</div>
+            
+            <div class="w250_content">
+            
+                <div class="latest_news">
+                    <div class="header_04">
+                        <asp:Label ID="lblFechaVenta" runat="server" Text="Marzo 3, 2010" Width="93px"></asp:Label>&nbsp;</div>
+                    <div class="header_02">
+                       <a href="Venta.aspx"> Ventas</a> </div>
+                </div>
+                
+                <div class="margin_bottom_20" style="height: 66px">
+                    b<asp:Label ID="lblVenta" runat="server" Font-Bold="True" Font-Names="Calibri" Font-Size="Small"
+                        Height="75px" Text="Depto en Venta: $65000 dolares, libre de gastos. Expensas $140. Santa Fe"
+                        Width="206px" ForeColor="Black"></asp:Label></div>
+                
+                <div class="latest_news">
+                    <div class="header_04">
+                        <br />
+                        <br />
+                        <asp:Label ID="lblFechaAlq" runat="server" Text="Marzo 4, 2010"></asp:Label>&nbsp;</div>
+                    <div class="header_02"><a href="Rosario.aspx">Alquileres</a></div>
+              </div>
+			
+            </div>
+            
+            <div class="w250_content">
+            
+                <div class="header_02">
+                    <div style="width: 204px; height: 100px">
+                        <asp:Label ID="lblAlquiler" runat="server" BackColor="Transparent" Font-Bold="True"
+                            Font-Names="Calibri" Font-Size="Small" ForeColor="Black" Height="100px" Text="Dueño alquila monoambiente amoblado, con cocina incorporada, totalmente amoblado, tv 21', estufa, ventilador de techo, heladera."
+                            Width="202px"></asp:Label></div>
+                </div>
+			
+            </div>
+        
+        </div>
+    </div> 
+</div> <!-- end of menu wrapper -->
+
+<!-- end of content wrapper -->
+
+<!-- end of footer wrapper -->
+
+<div id="templatemo_content_wrapper">
+        <div id="templatemo_footer" style="width: 99%">
+            <strong>
+        
+            Falco &amp; Asociados</strong></div>
+
+	<!-- end of content -->
+
+</div> 
+    
+</body>
+</html>

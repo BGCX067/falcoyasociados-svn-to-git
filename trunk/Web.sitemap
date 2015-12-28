@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="Inicio.aspx" title="Inicio"  description="">
+	<siteMapNode url="EstudioJuridico.aspx" title="Estudio Jurídico"  description="">
+		<siteMapNode url="AreaPractica.aspx" title="Área Práctica"  description="">
+			<siteMapNode url="DerechoComercial.aspx" title="Derecho Comercial"  description=""/>
+			<siteMapNode url="DerechoEmpresarial.aspx" title="Derecho Empresarial"  description=""/>
+			<siteMapNode url="DerechoFlia.aspx" title="Derecho de Familia"  description=""/>
+			<siteMapNode url="DerechoLaboral.aspx" title="Derecho Laboral"  description=""/>
+			<siteMapNode url="DerechoPrevisional.aspx" title="Derecho Previsional"  description=""/>
+			<siteMapNode url="DerechoReal.aspx" title="Derecho Real"  description=""/>
+			</siteMapNode>
+			<siteMapNode url="Contacto.aspx" title="Contacto"  description=""/>
+		</siteMapNode>
+	<siteMapNode url="NegocioInmobiliario.aspx" title="Negocios Inmobiliarios"  description="" >
+		<siteMapNode url="Venta.aspx" title="Venta"  description=""/>
+		<siteMapNode url="Alquiler.aspx" title="Alquiler"  description="">
+		<siteMapNode url="SantaFe.aspx" title="Santa Fé"  description=""/>
+		<siteMapNode url="Rosario.aspx" title="Rosario"  description=""/>
+		</siteMapNode>
+		<siteMapNode url="ContactoI.aspx" title="Contacto"  description=""/>
+	</siteMapNode>
+	</siteMapNode>
+
+</siteMap>
